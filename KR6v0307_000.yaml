@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0307/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大發趣論註
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B06/B06n0008.xml
+    old_id: B06n0008
+hash: sha256:d0c95550d06d9200f430a0b445672a9488d9010c6155c94e64a0f02bf0141171

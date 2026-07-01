@@ -1,0 +1,2866 @@
+canonical_identifier: bkk:krp/KR6v0307/v1
+canonical_location: https://kanripo.org/bkk/KR6v0307/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大發趣論註
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B06/B06n0008.xml
+    old_id: B06n0008
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0307_000.yaml, hash: 'sha256:d0c95550d06d9200f430a0b445672a9488d9010c6155c94e64a0f02bf0141171'}
+  - {seq: 1, filename: KR6v0307_001.yaml, hash: 'sha256:a9ad66ae4cff80d5a4a7127f14283599dd540de5a24561c2bd5f13fa41a9999e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0307_001.markers.yaml, hash: 'sha256:9ee0fae65d17aaceb2d76276231cc126699f29b117642803f03cdfbf22cadbb4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 65524
+  label: 大發趣論註
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-2
+    span:
+    - body
+    - 1317
+    - 1317
+  label: 略說分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-3
+    span:
+    - body
+    - 1321
+    - 1321
+  label: 因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-4
+    span:
+    - body
+    - 1323
+    - 1323
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-5
+    span:
+    - body
+    - 1909
+    - 1909
+  label: 所緣緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-6
+    span:
+    - body
+    - 2061
+    - 2061
+  label: 增上緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-7
+    span:
+    - body
+    - 2245
+    - 2245
+  label: 無間緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-8
+    span:
+    - body
+    - 2389
+    - 2389
+  label: 等無間緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-9
+    span:
+    - body
+    - 2655
+    - 2655
+  label: 俱生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-10
+    span:
+    - body
+    - 2794
+    - 2794
+  label: 相互緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-11
+    span:
+    - body
+    - 2871
+    - 2871
+  label: 依止緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-12
+    span:
+    - body
+    - 3012
+    - 3012
+  label: 親依止緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-13
+    span:
+    - body
+    - 3765
+    - 3765
+  label: 前生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-14
+    span:
+    - body
+    - 3943
+    - 3943
+  label: 後生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-15
+    span:
+    - body
+    - 4010
+    - 4010
+  label: 修習緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-16
+    span:
+    - body
+    - 4115
+    - 4115
+  label: 業緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-17
+    span:
+    - body
+    - 4200
+    - 4200
+  label: 異熟緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-18
+    span:
+    - body
+    - 4354
+    - 4354
+  label: 食緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-19
+    span:
+    - body
+    - 4446
+    - 4446
+  label: 根緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-20
+    span:
+    - body
+    - 4597
+    - 4597
+  label: 靜慮緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-21
+    span:
+    - body
+    - 4702
+    - 4702
+  label: 道緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-22
+    span:
+    - body
+    - 4814
+    - 4814
+  label: 相應緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-23
+    span:
+    - body
+    - 4867
+    - 4867
+  label: 不相應緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-24
+    span:
+    - body
+    - 5109
+    - 5109
+  label: 有緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-25
+    span:
+    - body
+    - 5430
+    - 5430
+  label: 無有緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-26
+    span:
+    - body
+    - 5502
+    - 5502
+  label: 去緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-27
+    span:
+    - body
+    - 5555
+    - 5555
+  label: 不去緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-28
+    span:
+    - body
+    - 5971
+    - 5971
+  label: 緣廣說分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-29
+    span:
+    - body
+    - 5976
+    - 5976
+  label: 因緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-30
+    span:
+    - body
+    - 5980
+    - 5980
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-31
+    span:
+    - body
+    - 8342
+    - 8342
+  label: 所緣緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-32
+    span:
+    - body
+    - 8347
+    - 8347
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-33
+    span:
+    - body
+    - 9584
+    - 9584
+  label: 增上緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-34
+    span:
+    - body
+    - 9589
+    - 9589
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-35
+    span:
+    - body
+    - 10664
+    - 10664
+  label: 無間緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-36
+    span:
+    - body
+    - 10669
+    - 10669
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-37
+    span:
+    - body
+    - 11782
+    - 11782
+  label: 等無間緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-38
+    span:
+    - body
+    - 11788
+    - 11788
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-39
+    span:
+    - body
+    - 11837
+    - 11837
+  label: 俱生緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-40
+    span:
+    - body
+    - 11842
+    - 11842
+  label: 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-41
+    span:
+    - body
+    - 12577
+    - 12577
+  label: 相互緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-42
+    span:
+    - body
+    - 12582
+    - 12582
+  label: 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-43
+    span:
+    - body
+    - 12880
+    - 12880
+  label: 依止緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-44
+    span:
+    - body
+    - 12885
+    - 12885
+  label: 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-45
+    span:
+    - body
+    - 13420
+    - 13420
+  label: 親依止緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-46
+    span:
+    - body
+    - 13426
+    - 13426
+  label: 一〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-47
+    span:
+    - body
+    - 14539
+    - 14539
+  label: 前生緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-48
+    span:
+    - body
+    - 14544
+    - 14544
+  label: 一一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-49
+    span:
+    - body
+    - 15011
+    - 15011
+  label: 後生緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-50
+    span:
+    - body
+    - 15016
+    - 15016
+  label: 一二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-51
+    span:
+    - body
+    - 15326
+    - 15326
+  label: 修習緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-52
+    span:
+    - body
+    - 15331
+    - 15331
+  label: 一三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-53
+    span:
+    - body
+    - 16054
+    - 16054
+  label: 業緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-54
+    span:
+    - body
+    - 16058
+    - 16058
+  label: 一四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-55
+    span:
+    - body
+    - 16919
+    - 16919
+  label: 異熟緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-56
+    span:
+    - body
+    - 16924
+    - 16924
+  label: 一五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-57
+    span:
+    - body
+    - 17226
+    - 17226
+  label: 食緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-58
+    span:
+    - body
+    - 17230
+    - 17230
+  label: 一六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-59
+    span:
+    - body
+    - 17752
+    - 17752
+  label: 根緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-60
+    span:
+    - body
+    - 17756
+    - 17756
+  label: 一七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-61
+    span:
+    - body
+    - 18445
+    - 18445
+  label: 靜慮緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-62
+    span:
+    - body
+    - 18450
+    - 18450
+  label: 一八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-63
+    span:
+    - body
+    - 18887
+    - 18887
+  label: 道緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-64
+    span:
+    - body
+    - 18891
+    - 18891
+  label: 一九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-65
+    span:
+    - body
+    - 19157
+    - 19157
+  label: 相應緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-66
+    span:
+    - body
+    - 19162
+    - 19162
+  label: 二〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-67
+    span:
+    - body
+    - 19294
+    - 19294
+  label: 不相應緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-68
+    span:
+    - body
+    - 19300
+    - 19300
+  label: 二一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-69
+    span:
+    - body
+    - 20224
+    - 20224
+  label: 有緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-70
+    span:
+    - body
+    - 20228
+    - 20228
+  label: 二二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-71
+    span:
+    - body
+    - 21475
+    - 21475
+  label: 無有緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-72
+    span:
+    - body
+    - 21480
+    - 21480
+  label: 二三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-73
+    span:
+    - body
+    - 21710
+    - 21710
+  label: 去緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-74
+    span:
+    - body
+    - 21714
+    - 21714
+  label: 二四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-75
+    span:
+    - body
+    - 21770
+    - 21770
+  label: 不去緣廣說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-76
+    span:
+    - body
+    - 21775
+    - 21775
+  label: 二五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-77
+    span:
+    - body
+    - 21826
+    - 21826
+  label: 雜判別十句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-78
+    span:
+    - body
+    - 21919
+    - 21919
+  label: 多法之一緣性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-79
+    span:
+    - body
+    - 21967
+    - 21967
+  label: 一法之多緣性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-80
+    span:
+    - body
+    - 22837
+    - 22837
+  label: 依一緣之多緣性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-81
+    span:
+    - body
+    - 24219
+    - 24219
+  label: 依緣同分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-82
+    span:
+    - body
+    - 24280
+    - 24280
+  label: 依緣非同分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-83
+    span:
+    - body
+    - 24336
+    - 24336
+  label: 依雙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-84
+    span:
+    - body
+    - 24463
+    - 24463
+  label: 依能生非能生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-85
+    span:
+    - body
+    - 24554
+    - 24554
+  label: 依一切處非一切處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-86
+    span:
+    - body
+    - 24751
+    - 24751
+  label: 依色對於色等之分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-87
+    span:
+    - body
+    - 25162
+    - 25162
+  label: 依有之別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-88
+    span:
+    - body
+    - 25266
+    - 25266
+  label: 善三法發趣釋第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-89
+    span:
+    - body
+    - 25274
+    - 25274
+  label: 施設分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-90
+    span:
+    - body
+    - 26018
+    - 26018
+  label: 二六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-91
+    span:
+    - body
+    - 26643
+    - 26643
+  label: 三六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-92
+    span:
+    - body
+    - 26824
+    - 26824
+  label: 三八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-93
+    span:
+    - body
+    - 26955
+    - 26955
+  label: 三九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-94
+    span:
+    - body
+    - 28654
+    - 28654
+  label: 四一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-95
+    span:
+    - body
+    - 28950
+    - 28950
+  label: 四二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-96
+    span:
+    - body
+    - 29030
+    - 29030
+  label: 四三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-97
+    span:
+    - body
+    - 29104
+    - 29104
+  label: 四四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-98
+    span:
+    - body
+    - 30822
+    - 30822
+  label: 四五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-99
+    span:
+    - body
+    - 31298
+    - 31298
+  label: 四八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-100
+    span:
+    - body
+    - 31501
+    - 31501
+  label: 五一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-101
+    span:
+    - body
+    - 31883
+    - 31883
+  label: 五二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-102
+    span:
+    - body
+    - 32329
+    - 32329
+  label: 相緣分義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-103
+    span:
+    - body
+    - 32334
+    - 32334
+  label: 緣順
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-104
+    span:
+    - body
+    - 32336
+    - 32336
+  label: 五六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-105
+    span:
+    - body
+    - 33589
+    - 33589
+  label: 五七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-106
+    span:
+    - body
+    - 33659
+    - 33659
+  label: 五八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-107
+    span:
+    - body
+    - 33697
+    - 33697
+  label: 五九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-108
+    span:
+    - body
+    - 33719
+    - 33719
+  label: 六〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-109
+    span:
+    - body
+    - 33971
+    - 33971
+  label: 六一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-110
+    span:
+    - body
+    - 34007
+    - 34007
+  label: 六二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-111
+    span:
+    - body
+    - 34074
+    - 34074
+  label: 六三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-112
+    span:
+    - body
+    - 34131
+    - 34131
+  label: 六四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-113
+    span:
+    - body
+    - 34384
+    - 34384
+  label: 六五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-114
+    span:
+    - body
+    - 34424
+    - 34424
+  label: 六六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-115
+    span:
+    - body
+    - 34561
+    - 34561
+  label: 六七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-116
+    span:
+    - body
+    - 34628
+    - 34628
+  label: 六八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-117
+    span:
+    - body
+    - 34735
+    - 34735
+  label: 六九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-118
+    span:
+    - body
+    - 34803
+    - 34803
+  label: 七〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-119
+    span:
+    - body
+    - 34826
+    - 34826
+  label: 七一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-120
+    span:
+    - body
+    - 34850
+    - 34850
+  label: 七二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-121
+    span:
+    - body
+    - 35115
+    - 35115
+  label: 七三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-122
+    span:
+    - body
+    - 35133
+    - 35133
+  label: 七四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-123
+    span:
+    - body
+    - 35143
+    - 35143
+  label: 七五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-124
+    span:
+    - body
+    - 35215
+    - 35215
+  label: 七六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-125
+    span:
+    - body
+    - 35542
+    - 35542
+  label: 七七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-126
+    span:
+    - body
+    - 35745
+    - 35745
+  label: 七八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-127
+    span:
+    - body
+    - 35808
+    - 35808
+  label: 七九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-128
+    span:
+    - body
+    - 35854
+    - 35854
+  label: 八〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-129
+    span:
+    - body
+    - 35911
+    - 35911
+  label: 八一至八二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-130
+    span:
+    - body
+    - 36168
+    - 36168
+  label: 八三至八四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-131
+    span:
+    - body
+    - 36591
+    - 36591
+  label: 緣逆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-132
+    span:
+    - body
+    - 36593
+    - 36593
+  label: 八七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-133
+    span:
+    - body
+    - 36755
+    - 36755
+  label: 八九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-134
+    span:
+    - body
+    - 36859
+    - 36859
+  label: 九〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-135
+    span:
+    - body
+    - 36940
+    - 36940
+  label: 九一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-136
+    span:
+    - body
+    - 36976
+    - 36976
+  label: 九二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-137
+    span:
+    - body
+    - 37040
+    - 37040
+  label: 九三至九四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-138
+    span:
+    - body
+    - 37098
+    - 37098
+  label: 九五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-139
+    span:
+    - body
+    - 37157
+    - 37157
+  label: 九六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-140
+    span:
+    - body
+    - 37176
+    - 37176
+  label: 九八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-141
+    span:
+    - body
+    - 37196
+    - 37196
+  label: 一〇〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-142
+    span:
+    - body
+    - 37242
+    - 37242
+  label: 一〇一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-143
+    span:
+    - body
+    - 37265
+    - 37265
+  label: 一〇二至一〇三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-144
+    span:
+    - body
+    - 37293
+    - 37293
+  label: 一〇五至一〇六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-145
+    span:
+    - body
+    - 37440
+    - 37440
+  label: 一〇九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-146
+    span:
+    - body
+    - 37672
+    - 37672
+  label: 緣順逆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-147
+    span:
+    - body
+    - 37675
+    - 37675
+  label: 一三三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-148
+    span:
+    - body
+    - 37927
+    - 37927
+  label: 緣逆順
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-149
+    span:
+    - body
+    - 37930
+    - 37930
+  label: 一九二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-150
+    span:
+    - body
+    - 38260
+    - 38260
+  label: 一九五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-151
+    span:
+    - body
+    - 38688
+    - 38688
+  label: 一九八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-152
+    span:
+    - body
+    - 38777
+    - 38777
+  label: 二〇〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-153
+    span:
+    - body
+    - 38829
+    - 38829
+  label: 二〇五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-154
+    span:
+    - body
+    - 38874
+    - 38874
+  label: 二一四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-155
+    span:
+    - body
+    - 38943
+    - 38943
+  label: 俱生分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-156
+    span:
+    - body
+    - 39147
+    - 39147
+  label: 緣依分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-157
+    span:
+    - body
+    - 39151
+    - 39151
+  label: 二四六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-158
+    span:
+    - body
+    - 39596
+    - 39596
+  label: 二五一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-159
+    span:
+    - body
+    - 39760
+    - 39760
+  label: 二五六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-160
+    span:
+    - body
+    - 39806
+    - 39806
+  label: 二五八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-161
+    span:
+    - body
+    - 39851
+    - 39851
+  label: 二五九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-162
+    span:
+    - body
+    - 39880
+    - 39880
+  label: 二六一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-163
+    span:
+    - body
+    - 39910
+    - 39910
+  label: 二六二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-164
+    span:
+    - body
+    - 39937
+    - 39937
+  label: 二六四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-165
+    span:
+    - body
+    - 39981
+    - 39981
+  label: 二七〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-166
+    span:
+    - body
+    - 40054
+    - 40054
+  label: 二七二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-167
+    span:
+    - body
+    - 40357
+    - 40357
+  label: 二七三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-168
+    span:
+    - body
+    - 40450
+    - 40450
+  label: 二八三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-169
+    span:
+    - body
+    - 40781
+    - 40781
+  label: 二九二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-170
+    span:
+    - body
+    - 40988
+    - 40988
+  label: 二九四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-171
+    span:
+    - body
+    - 41152
+    - 41152
+  label: 依止分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-172
+    span:
+    - body
+    - 41156
+    - 41156
+  label: 三八〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-173
+    span:
+    - body
+    - 41406
+    - 41406
+  label: 相雜分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-174
+    span:
+    - body
+    - 41410
+    - 41410
+  label: 三九〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-175
+    span:
+    - body
+    - 41526
+    - 41526
+  label: 三九八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-176
+    span:
+    - body
+    - 41668
+    - 41668
+  label: 四〇九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-177
+    span:
+    - body
+    - 41976
+    - 41976
+  label: 四三二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-178
+    span:
+    - body
+    - 42037
+    - 42037
+  label: 四五七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-179
+    span:
+    - body
+    - 42142
+    - 42142
+  label: 相應分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-180
+    span:
+    - body
+    - 42146
+    - 42146
+  label: 四七五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-181
+    span:
+    - body
+    - 42370
+    - 42370
+  label: 雜論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-182
+    span:
+    - body
+    - 42449
+    - 42449
+  label: 問分釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-183
+    span:
+    - body
+    - 42452
+    - 42452
+  label: 問分分別釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-184
+    span:
+    - body
+    - 42457
+    - 42457
+  label: 四八四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-185
+    span:
+    - body
+    - 42909
+    - 42909
+  label: 四八七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-186
+    span:
+    - body
+    - 43357
+    - 43357
+  label: 四八八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-187
+    span:
+    - body
+    - 43508
+    - 43508
+  label: 四八九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-188
+    span:
+    - body
+    - 43830
+    - 43830
+  label: 四九〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-189
+    span:
+    - body
+    - 43970
+    - 43970
+  label: 四九三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-190
+    span:
+    - body
+    - 44068
+    - 44068
+  label: 四九六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-191
+    span:
+    - body
+    - 44124
+    - 44124
+  label: 五〇五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-192
+    span:
+    - body
+    - 44187
+    - 44187
+  label: 五〇六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-193
+    span:
+    - body
+    - 44366
+    - 44366
+  label: 五〇九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-194
+    span:
+    - body
+    - 46699
+    - 46699
+  label: 五四四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-195
+    span:
+    - body
+    - 47407
+    - 47407
+  label: 五四五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-196
+    span:
+    - body
+    - 47650
+    - 47650
+  label: 五四六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-197
+    span:
+    - body
+    - 48343
+    - 48343
+  label: 五四七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-198
+    span:
+    - body
+    - 48757
+    - 48757
+  label: 五四八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-199
+    span:
+    - body
+    - 48998
+    - 48998
+  label: 五五〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-200
+    span:
+    - body
+    - 49277
+    - 49277
+  label: 五五一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-201
+    span:
+    - body
+    - 49526
+    - 49526
+  label: 五五二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-202
+    span:
+    - body
+    - 49673
+    - 49673
+  label: 五五三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-203
+    span:
+    - body
+    - 49994
+    - 49994
+  label: 五五四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-204
+    span:
+    - body
+    - 50202
+    - 50202
+  label: 五五五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-205
+    span:
+    - body
+    - 50353
+    - 50353
+  label: 五五六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-206
+    span:
+    - body
+    - 50423
+    - 50423
+  label: 五五九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-207
+    span:
+    - body
+    - 50495
+    - 50495
+  label: 五六二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-208
+    span:
+    - body
+    - 50529
+    - 50529
+  label: 五六五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-209
+    span:
+    - body
+    - 50637
+    - 50637
+  label: 五七二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-210
+    span:
+    - body
+    - 50656
+    - 50656
+  label: 五七三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-211
+    span:
+    - body
+    - 50707
+    - 50707
+  label: 五八〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-212
+    span:
+    - body
+    - 50736
+    - 50736
+  label: 問分配列順答數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-213
+    span:
+    - body
+    - 50743
+    - 50743
+  label: 六二五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-214
+    span:
+    - body
+    - 51919
+    - 51919
+  label: 六二六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-215
+    span:
+    - body
+    - 52332
+    - 52332
+  label: 六二七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-216
+    span:
+    - body
+    - 53062
+    - 53062
+  label: 六二八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-217
+    span:
+    - body
+    - 53221
+    - 53221
+  label: 六二九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-218
+    span:
+    - body
+    - 53447
+    - 53447
+  label: 六三〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-219
+    span:
+    - body
+    - 53702
+    - 53702
+  label: 六三一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-220
+    span:
+    - body
+    - 54113
+    - 54113
+  label: 六三二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-221
+    span:
+    - body
+    - 54184
+    - 54184
+  label: 六三六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-222
+    span:
+    - body
+    - 54244
+    - 54244
+  label: 六三七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-223
+    span:
+    - body
+    - 54453
+    - 54453
+  label: 六三九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-224
+    span:
+    - body
+    - 54488
+    - 54488
+  label: 六四〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-225
+    span:
+    - body
+    - 54555
+    - 54555
+  label: 六四一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-226
+    span:
+    - body
+    - 54783
+    - 54783
+  label: 六四二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-227
+    span:
+    - body
+    - 54931
+    - 54931
+  label: 六四三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-228
+    span:
+    - body
+    - 55063
+    - 55063
+  label: 六四四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-229
+    span:
+    - body
+    - 55102
+    - 55102
+  label: 六四五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-230
+    span:
+    - body
+    - 55165
+    - 55165
+  label: 六四六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-231
+    span:
+    - body
+    - 55201
+    - 55201
+  label: 六四七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-232
+    span:
+    - body
+    - 55212
+    - 55212
+  label: 六四八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-233
+    span:
+    - body
+    - 55279
+    - 55279
+  label: 六四九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-234
+    span:
+    - body
+    - 55394
+    - 55394
+  label: 六五一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-235
+    span:
+    - body
+    - 55408
+    - 55408
+  label: 六五二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-236
+    span:
+    - body
+    - 55563
+    - 55563
+  label: 六五四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-237
+    span:
+    - body
+    - 55599
+    - 55599
+  label: 六五五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-238
+    span:
+    - body
+    - 55773
+    - 55773
+  label: 六五六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-239
+    span:
+    - body
+    - 55888
+    - 55888
+  label: 六五八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-240
+    span:
+    - body
+    - 56018
+    - 56018
+  label: 六六〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-241
+    span:
+    - body
+    - 56056
+    - 56056
+  label: 六六二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-242
+    span:
+    - body
+    - 56290
+    - 56290
+  label: 六六四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-243
+    span:
+    - body
+    - 56323
+    - 56323
+  label: 六六五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-244
+    span:
+    - body
+    - 56567
+    - 56567
+  label: 六六七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-245
+    span:
+    - body
+    - 56592
+    - 56592
+  label: 六七一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-246
+    span:
+    - body
+    - 57115
+    - 57115
+  label: 緣摘出分之義釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-247
+    span:
+    - body
+    - 59011
+    - 59011
+  label: 六七四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-248
+    span:
+    - body
+    - 59680
+    - 59680
+  label: 六七六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-249
+    span:
+    - body
+    - 59904
+    - 59904
+  label: 六七七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-250
+    span:
+    - body
+    - 60304
+    - 60304
+  label: 六七九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-251
+    span:
+    - body
+    - 61571
+    - 61571
+  label: 六八〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-252
+    span:
+    - body
+    - 61632
+    - 61632
+  label: 六八一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-253
+    span:
+    - body
+    - 61715
+    - 61715
+  label: 六八二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-254
+    span:
+    - body
+    - 61737
+    - 61737
+  label: 六八三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-255
+    span:
+    - body
+    - 61907
+    - 61907
+  label: 六八四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-256
+    span:
+    - body
+    - 61928
+    - 61928
+  label: 六八五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-257
+    span:
+    - body
+    - 61984
+    - 61984
+  label: 六八六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-258
+    span:
+    - body
+    - 62076
+    - 62076
+  label: 六八七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-259
+    span:
+    - body
+    - 62092
+    - 62092
+  label: 六八八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-260
+    span:
+    - body
+    - 62160
+    - 62160
+  label: 六八九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-261
+    span:
+    - body
+    - 62275
+    - 62275
+  label: 六九五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-262
+    span:
+    - body
+    - 62519
+    - 62519
+  label: 七二六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-263
+    span:
+    - body
+    - 62549
+    - 62549
+  label: 七三七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-264
+    span:
+    - body
+    - 62747
+    - 62747
+  label: 七四一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-265
+    span:
+    - body
+    - 62847
+    - 62847
+  label: 七四五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-266
+    span:
+    - body
+    - 63001
+    - 63001
+  label: 七四七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-267
+    span:
+    - body
+    - 63216
+    - 63216
+  label: 順逆
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-268
+    span:
+    - body
+    - 63218
+    - 63218
+  label: 七五二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-269
+    span:
+    - body
+    - 63561
+    - 63561
+  label: 七五三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-270
+    span:
+    - body
+    - 63672
+    - 63672
+  label: 七五四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-271
+    span:
+    - body
+    - 63764
+    - 63764
+  label: 七五五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-272
+    span:
+    - body
+    - 63780
+    - 63780
+  label: 七五六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-273
+    span:
+    - body
+    - 63815
+    - 63815
+  label: 七六二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-274
+    span:
+    - body
+    - 64040
+    - 64040
+  label: 逆順
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-275
+    span:
+    - body
+    - 64042
+    - 64042
+  label: 一〇〇八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-276
+    span:
+    - body
+    - 64456
+    - 64456
+  label: 一〇〇九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-277
+    span:
+    - body
+    - 64785
+    - 64785
+  label: 一〇一三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-278
+    span:
+    - body
+    - 65017
+    - 65017
+  label: 一〇三〇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-279
+    span:
+    - body
+    - 65179
+    - 65179
+  label: 一〇四八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-280
+    span:
+    - body
+    - 65223
+    - 65223
+  label: 一〇五四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-281
+    span:
+    - body
+    - 65317
+    - 65317
+  label: 一〇六九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-282
+    span:
+    - body
+    - 65390
+    - 65390
+  label: 一〇七二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0307_B_001-mulu-283
+    span:
+    - body
+    - 65464
+    - 65464
+  label: 一〇七三
+  type: mulu
+  level: 1
+hash: sha256:72e22faefe8cffa920f079ef753815c0cd835ccbb0be35047517696f8be7d63c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: B
